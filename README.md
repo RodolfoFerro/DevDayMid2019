@@ -5,7 +5,7 @@
 > **Tallerista:** Rodolfo Ferro <br>
 > **Twitter:** [@FerroRodolfo](https://twitter.com/FerroRodolfo) <br>
 > **Contacto:** [https://rodolfoferro.xyz](https://rodolfoferro.xyz) <br>
-> **Slides:** [¡Click aquí!](https://docs.google.com/presentation/d/e/2PACX-1vSc7Q82-lwQ8fKgR5WcT7Y0r9kotcYiNuyYjHRlF-fdhf6lkIrF9B_2akvzL-ZQ6ZAyT1lxM9f0mPdx/pub?start=false&loop=false&delayms=3000)
+> **Slides en PDF:** [¡Click aquí!](https://github.com/RodolfoFerro/DevDayMid2019/raw/master/DevDayMid.pdf)
 ------
 ![banner](dev_day_mid.png)
 
