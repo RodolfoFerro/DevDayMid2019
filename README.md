@@ -5,8 +5,11 @@
 > **Tallerista:** Rodolfo Ferro <br>
 > **Twitter:** [@FerroRodolfo](https://twitter.com/FerroRodolfo) <br>
 > **Contacto:** [https://rodolfoferro.xyz](https://rodolfoferro.xyz) <br>
-> **Slides en PDF:** [¡Click aquí!](https://github.com/RodolfoFerro/DevDayMid2019/raw/master/DevDayMid.pdf)
-------
+> **Slides:** [¡Click aquí!](https://github.com/RodolfoFerro/DevDayMid2019/raw/master/DevDayMid.pdf) <br>
+> **Repo:** [¡Click aquí!](https://github.com/RodolfoFerro/DevDayMid2019)
+
+***
+
 ![banner](dev_day_mid.png)
 
 El repo contiene el material de la charla y taller desarrollados para el **Dev Day Mérida 2019**. Así, se abordan los sguientes temas: 
